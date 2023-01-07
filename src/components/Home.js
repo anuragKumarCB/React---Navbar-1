@@ -3,3 +3,4 @@ export default function Home() {
         <h1>Home Component</h1>
     )
 }
+
